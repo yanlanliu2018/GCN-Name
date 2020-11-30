@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7635008e-2dc3-47a5-bcc7-ceb099527990" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,11 +23,11 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="950" />
     <option name="y" value="-10" />
-    <option name="width" value="979" />
-    <option name="height" value="1049" />
+    <option name="width" value="980" />
+    <option name="height" value="1050" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -42,17 +42,6 @@
             <path>
               <item name="GCN-Name" type="b2602c69:ProjectViewProjectNode" />
               <item name="GCN-Name" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="GCN-Name" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GCN-Name" type="462c0819:PsiDirectoryNode" />
-              <item name="testing datas" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="GCN-Name" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GCN-Name" type="462c0819:PsiDirectoryNode" />
-              <item name="testing datas" type="462c0819:PsiDirectoryNode" />
-              <item name="RSN" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -92,16 +81,17 @@
       <workItem from="1606264913081" duration="602000" />
       <workItem from="1606699901412" duration="3996000" />
       <workItem from="1606714473093" duration="236000" />
+      <workItem from="1606714743057" duration="166000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4834000" />
+    <option name="totallyTimeSpent" value="5000000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.32908848" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33378017" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -115,7 +105,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.36827195" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.36827195" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -174,8 +164,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="9" lean-forward="true" selection-start-column="9" selection-end-column="9" />
+        <state relative-caret-position="25">
+          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
         </state>
       </provider>
     </entry>
